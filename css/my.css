@@ -1,0 +1,39 @@
+
+#name-blog {
+    color: white;
+    padding: 10px;
+}
+
+#menu a{
+    border: 1px solid #aaa;
+    margin: 2px;
+    border-radius: 20px;
+    height: 25px;
+    background: #34495E;
+    font-family: "Times New Roman";
+    color: white;
+    text-align: center;
+    display: inline-flex;
+
+}
+
+#logo h1 {
+    color: white;
+    text-decoration: none;
+    font-family: 'Sonsie One';
+}
+
+.content{
+    align-self:center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:10px;
+}
+
+#footer-div{
+    background-color: #424251;
+    align-content: center;
+    color: white;
+    height: 59px;
+
+}
