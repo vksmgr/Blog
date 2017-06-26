@@ -7,3 +7,6 @@ Blog Template
 ### Installation :
 
 * just download and upload to server.
+
+
+![alt text](imgBlog.png)
